@@ -1,0 +1,39 @@
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    
+        background-image: url('./Multimedia/fondo.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+}
+h1,h2{
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
+    padding-top: 10px;
+    color: red;
+    box-shadow: 3px gray 10px 10px;
+}
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0px 10%;
+}
+table th{
+    border: 2px solid ;
+    background-color: blue;
+    color: white;
+
+}
+table td{
+    border:1px solid;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    font-weight: 600;
+
+}
